@@ -1,7 +1,7 @@
 # DNC-Desafio-4
 Quarta prova da formação em Cientista de Dados pela Escola DNC
 
-**Arquivo da Base de Dados utilizada:**https://drive.google.com/file/d/1Hn4Jf2d3R0QWP2830Lgu7dYixoy8sQ6n/view
+**Arquivo da Base de Dados utilizada:** https://drive.google.com/file/d/1Hn4Jf2d3R0QWP2830Lgu7dYixoy8sQ6n/view
 
 **Contexto:** Uma empresa está investindo mensalmente em plataformas de publicidade online,
 como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas
